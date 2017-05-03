@@ -21,5 +21,10 @@ namespace _404209
         {
             MessageBox.Show("404209");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello word");
+        }
     }
 }
